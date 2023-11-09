@@ -1,0 +1,1 @@
+Product service: create and view products, acts as Product catalog
